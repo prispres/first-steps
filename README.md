@@ -1,2 +1,1 @@
-# learning-to-programming
-My register 
+# These are my first steps
